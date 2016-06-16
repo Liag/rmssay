@@ -3,7 +3,7 @@
 all: install
 
 install:
-	cp ./rms.cow /usr/share/cowsay/cows
+	cp ./rms.cow /usr/share/cows
 	strfile stallman stallman.dat
-	cp ./stallman /usr/share/fortune
-	cp ./rmssay /bin/
+	cp ./stallman* /usr/share/fortune
+	cp ./rmssay /usr/local/bin/
