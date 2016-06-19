@@ -243,7 +243,7 @@ Many computer users run a modified version of the GNU system every day, without 
 
 There really is a Linux, and these people are using it, but it is just a part of the system they use. Linux is the kernel: the program in the system that allocates the machine's resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; it can only function in the context of a complete operating system. Linux is normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux. All the so-called "Linux" distributions are really distributions of GNU/Linux.
 %
-If you focus your mind on the freedom and community that you can build by staying firm, you will find the strength to do it. "Stand for something, or you will fall for nothing.
+If you focus your mind on the freedom and community that you can build by staying firm, you will find the strength to do it. "Stand for something, or you will fall for nothing."
 %
 "You can use any editor you want, but remember that vi vi vi is the text editor of the beast.
 %         
